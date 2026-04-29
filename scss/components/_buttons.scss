@@ -1,0 +1,14 @@
+.btn-primary {
+  background: var(--primary);
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  color: #000;
+  font-weight: 700;
+}
+
+.btn-outline {
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  color: var(--white);
+}
